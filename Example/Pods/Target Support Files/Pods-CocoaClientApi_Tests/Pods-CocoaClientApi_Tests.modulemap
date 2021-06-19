@@ -1,0 +1,6 @@
+framework module Pods_CocoaClientApi_Tests {
+  umbrella header "Pods-CocoaClientApi_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

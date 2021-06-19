@@ -1,0 +1,6 @@
+framework module CocoaClientApi {
+  umbrella header "CocoaClientApi-umbrella.h"
+
+  export *
+  module * { export * }
+}

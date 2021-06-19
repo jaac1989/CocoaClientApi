@@ -1,0 +1,16 @@
+PODS:
+  - CocoaClientApi (0.1.0)
+
+DEPENDENCIES:
+  - CocoaClientApi (from `../`)
+
+EXTERNAL SOURCES:
+  CocoaClientApi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoaClientApi: 756371eee8fd460b2077fa39df118175d7e4295d
+
+PODFILE CHECKSUM: 6ee0d052147182ee2b65f26b65dc9cf0f005c263
+
+COCOAPODS: 1.10.1

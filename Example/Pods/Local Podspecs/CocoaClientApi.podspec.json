@@ -1,0 +1,22 @@
+{
+  "name": "CocoaClientApi",
+  "version": "0.1.0",
+  "summary": "A short description of CocoaClientApi.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Andres Azofeifa Cascante/CocoaClientApi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Andres Azofeifa Cascante": "aazofeifa1989@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Andres Azofeifa Cascante/CocoaClientApi.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CocoaClientApi/Classes/**/*"
+}
